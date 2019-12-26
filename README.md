@@ -53,6 +53,7 @@ poutcome
 deposit: field used to split the data into two sets (client has deposited, or not)
 
 Conclusion
+
 Most classification problems in the real world are imbalanced. Also, almost always data sets have missing values. In this post, we covered strategies to deal with both missing values and imbalanced data sets. We also explored different ways of building ensembles in sklearn. Below are some takeaway points:
 
 Sometimes we may be willing to give up some improvement to the model if that would increase the complexity much more than the percentage change in the improvement to the evaluation metrics.
